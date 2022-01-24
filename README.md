@@ -26,6 +26,7 @@ The video has a watermark. You can purchase the video without a watermark.
 ![Pict1](https://user-images.githubusercontent.com/66309582/150739581-ca3f32e6-c2c5-4704-afb6-4d1e838a3b35.png)
 ![Pict2](https://user-images.githubusercontent.com/66309582/150739747-90a3e491-23cb-435e-850f-1842bf069ad2.png)
 ![Pict3](https://user-images.githubusercontent.com/66309582/150739841-5421eea4-6a41-4b86-b633-bdd9a0e1c0bf.png)
+![GIF1](https://user-images.githubusercontent.com/66309582/150741338-c86cb231-a445-4e2b-b48e-6a9b810b4c57.gif)
 
 ![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)
 
