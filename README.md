@@ -1,8 +1,6 @@
 # AR Video Portal
 
-<!--
-![App Icon](https://user-images.githubusercontent.com/66309582/150661618-0b5aa699-54f8-48da-8949-7f3a9eae42bf.png)
--->
+![App Icon](https://user-images.githubusercontent.com/66309582/150739922-d6f9353a-ca24-4224-ad7f-2f4afa1136d4.png)
 
 A minimal iOS AR app to display 360 / video in sphere space.
 
@@ -12,7 +10,7 @@ A minimal iOS AR app to display 360 / video in sphere space.
 
 This app uses RealityKit's VideoMaterial and AVFoundation's AVQueuePlayer to play video / audio as a texture for a sphere model.
 
-Please add features like animations, sounds, interactions, and more as you like.
+This is a minimal implementation, so please improve the quality or modify it to your app.
 
 - Sync-loading of Assets => Async-loading
 - Video texture inversion (currently incorrect)
@@ -25,13 +23,9 @@ The video has a watermark. You can purchase the video without a watermark.
 
 - [360/VR London On Tower Bridge](https://vimeo.com/215984568)
 
-
-<!--
-![ISS](https://user-images.githubusercontent.com/66309582/150661808-e36bf38f-69fe-43c9-b8aa-de907aa0bb6f.jpg)
-![Window](https://user-images.githubusercontent.com/66309582/150661829-7d1903c6-624f-4ac8-b25c-a34d0fe18039.jpg)
-![Space](https://user-images.githubusercontent.com/66309582/150661839-028fb2d4-07e3-43b6-a615-85da35e02ac7.jpg)
-![WalkingGIF](https://user-images.githubusercontent.com/66309582/150668442-4880d9e9-2ba7-4605-92cc-5b8410d0ed38.gif)
--->
+![Pict1](https://user-images.githubusercontent.com/66309582/150739581-ca3f32e6-c2c5-4704-afb6-4d1e838a3b35.png)
+![Pict2](https://user-images.githubusercontent.com/66309582/150739747-90a3e491-23cb-435e-850f-1842bf069ad2.png)
+![Pict3](https://user-images.githubusercontent.com/66309582/150739841-5421eea4-6a41-4b86-b633-bdd9a0e1c0bf.png)
 
 ![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)
 

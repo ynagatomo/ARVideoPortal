@@ -4,6 +4,7 @@
 
 .DS_Store
 README.md~
+.gitignore~
 
 ## User settings
 xcuserdata/
