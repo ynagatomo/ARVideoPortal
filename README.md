@@ -6,17 +6,22 @@ A minimal iOS AR app to display 360 / video in sphere space.
 
 - Xcode 13.2.1
 - Target: iOS / iPadOS 14.0+
-- SwiftUI, ARKit, RealityKit
+- SwiftUI, ARKit, RealityKit, AVFoundation
 
-This app uses RealityKit's VideoMaterial and AVFoundation's AVQueuePlayer to play video / audio as a texture for a sphere model.
+This app uses below files and SDKs.
+
+- Video	file: a 360 degrees 1080p mp4 file (video + audio)
+- Sphere 3d model: a USDZ file created with Blender
+- Video	material: RealityKit - VideoMaterial(avPlayer)
+- Infinit loop video playback: AVFoundation - AVPlayerItem(url:), AVQueuePlayer(), AVPlayerLooper
 
 This is a minimal implementation, so please improve the quality or modify it to your app.
 
 - Sync-loading of Assets => Async-loading
-- Video texture inversion (currently incorrect)
+- Video texture inversion (currently incorrect) => I've done this. The orientation of the texture is now correct.
 - Video playback control such as start and pause
 - Replacing the video file with your favorite one
-- Changing the sphere space size (currently 1.5 meters radius)
+- Changing the sphere 3d model (currently 1.5 meters radius)
 
 The 360 video is provided by mettle. Thank you for sharing nice content.
 The video has a watermark. You can purchase the video without a watermark.

@@ -7,22 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BA671430279EC80B00DDD080 /* SphereSpace.usdz in Resources */ = {isa = PBXBuildFile; fileRef = BA67142F279EC80B00DDD080 /* SphereSpace.usdz */; };
 		BAC2C3E1279E79FA0042A8AC /* arvideoportalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAC2C3E0279E79FA0042A8AC /* arvideoportalApp.swift */; };
 		BAC2C3E5279E79FC0042A8AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAC2C3E4279E79FC0042A8AC /* Assets.xcassets */; };
 		BAC2C3E8279E79FC0042A8AC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAC2C3E7279E79FC0042A8AC /* Preview Assets.xcassets */; };
 		BAC2C3EF279E7EBC0042A8AC /* tower_bridge.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = BAC2C3EE279E7EBC0042A8AC /* tower_bridge.mp4 */; };
 		BAC2C3F1279E7F2F0042A8AC /* ARVideoPortalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAC2C3F0279E7F2F0042A8AC /* ARVideoPortalView.swift */; };
-		BAC2C3F3279E80F10042A8AC /* SphereSpace.usdz in Resources */ = {isa = PBXBuildFile; fileRef = BAC2C3F2279E80F10042A8AC /* SphereSpace.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BA67142F279EC80B00DDD080 /* SphereSpace.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = SphereSpace.usdz; sourceTree = "<group>"; };
 		BAC2C3DD279E79FA0042A8AC /* AR Video Portal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AR Video Portal.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAC2C3E0279E79FA0042A8AC /* arvideoportalApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arvideoportalApp.swift; sourceTree = "<group>"; };
 		BAC2C3E4279E79FC0042A8AC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BAC2C3E7279E79FC0042A8AC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BAC2C3EE279E7EBC0042A8AC /* tower_bridge.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = tower_bridge.mp4; sourceTree = "<group>"; };
 		BAC2C3F0279E7F2F0042A8AC /* ARVideoPortalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARVideoPortalView.swift; sourceTree = "<group>"; };
-		BAC2C3F2279E80F10042A8AC /* SphereSpace.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = SphereSpace.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +58,7 @@
 			children = (
 				BAC2C3E0279E79FA0042A8AC /* arvideoportalApp.swift */,
 				BAC2C3F0279E7F2F0042A8AC /* ARVideoPortalView.swift */,
-				BAC2C3F2279E80F10042A8AC /* SphereSpace.usdz */,
+				BA67142F279EC80B00DDD080 /* SphereSpace.usdz */,
 				BAC2C3E4279E79FC0042A8AC /* Assets.xcassets */,
 				BAC2C3E6279E79FC0042A8AC /* Preview Content */,
 			);
@@ -134,7 +134,7 @@
 				BAC2C3EF279E7EBC0042A8AC /* tower_bridge.mp4 in Resources */,
 				BAC2C3E8279E79FC0042A8AC /* Preview Assets.xcassets in Resources */,
 				BAC2C3E5279E79FC0042A8AC /* Assets.xcassets in Resources */,
-				BAC2C3F3279E80F10042A8AC /* SphereSpace.usdz in Resources */,
+				BA671430279EC80B00DDD080 /* SphereSpace.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
